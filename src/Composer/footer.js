@@ -1,7 +1,7 @@
 const Footer = () => {
     return ( 
         <div>
-            <div className="container-fluid" style={{marginTop:'70px'}}>
+            <div className="container-fluid" style={{marginTop:'70px',background:'white'}}>
 
                 <div className="row" style={{padding:'20px'}}>
                     <div className="col-lg-7">

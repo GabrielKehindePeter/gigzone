@@ -26,6 +26,7 @@ const About = () => {
                             <p>Dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua eniina ilukita ylokem lokateise ination voluptate velite esse cillum dolore eu fugnulla pariatur lokaim urianewce anim id est laborumed</p>
                             <br />
                             <button className="btn btn-dark btn-lg">Register</button>
+                            <br /><br />
                          </div>
                     </div>
                     <div className="col-lg-6">
@@ -46,28 +47,19 @@ const About = () => {
 
                 
             <div className="container" style={{textAlign:'justify'}}>
-                <img src="bannerimg/banner.jpg" className="img-fluid" width={'100%'}/>
+                <img src="img/social media icons.jpg" className="img-fluid socialBanner" width={'100%'}/>
                 <div className="row">
                     <div className="col-lg-4">
-                        <div style={{background:'lightgrey',padding:'20px'}}>
-                        <table border={'0'} width={'100%'} bgcolor="white">
-                            <tr>
-                                <td>
-                       <img src="img/qrcode.png" className="img-fluid" width={'200px'}/> 
-                                </td>
-                                <td>
-                                     <i className="bi bi-bank"></i><br />
-                                    Lorem ddjdj dkdk 
-                                </td>
-                            </tr>
-                        </table>
-                        
+                        <div className="bg-white" style={{padding:'20px'}}>
+                        <img src="img/social media globe.jpg" className="img-fluid"/> 
+                        <h5>Our Social Media</h5>
                         <p>Dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua eniina ilukita ylokem lokateise ination voluptate velite esse cillum dolore eu fugnulla pariatur lokaim urianewce anim id est laborumed</p>
                     </div>
                     </div>
                     <div className="col-lg-8">
-                        <div className="somehting" style={{background:'lightgrey',padding:'20px'}}>
+                        <div className="bg-white" style={{padding:'20px'}}>
 
+        <img src="./img/gigzone banner.png" className="img-fluid" width={'100%'}/>
                         <br /><br />
                         <h1>
                             About Gigzone
