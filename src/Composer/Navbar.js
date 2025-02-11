@@ -1,12 +1,12 @@
 import { useEffect } from "react";
-
+import { Link } from "react-router-dom";
 const Navbar = () => {
 
 
   return (
     <nav className="navbar navbar-expand-lg" style={{background:'black',color:'white'}}>
       <div className="container-fluid">
-        <a className="navbar-brand te" href="#"><b>GIGZONE</b></a>
+        <Link className="navbar-brand te" to="#"><b>GIGZONE</b></Link>
         <button 
           className="navbar-toggler" 
           type="button" 
@@ -37,27 +37,27 @@ const Navbar = () => {
           <div className="offcanvas-body text-light text-left">
             <ul className="navbar-nav text-start mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/">Home</a>
+                <Link className="nav-link activeMenu" aria-current="page" to="/">Home</Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">About Us</a>
+                <Link className="nav-link" to="/about">About Us</Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">How It Works</a>
+                <Link className="nav-link" to="#">How It Works</Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Contact Us</a>
+                <Link className="nav-link" to="#">Contact Us</Link>
               </li>
               <li className="nav-item dropdown">
-                <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <Link className="nav-link dropdown-toggle" to="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Browse Jobs
-                </a>
+                </Link>
                 <ul className="dropdown-menu border-0">
-                  <li><a className="dropdown-item" href="#">Action</a></li>
+                  <li><Link className="dropdown-item" to="#">Action</Link></li>
                   <li><hr className="dropdown-divider" /></li>
-                  <li><a className="dropdown-item" href="#">Another action</a></li>
+                  <li><Link className="dropdown-item" to="#">Another action</Link></li>
                   <li><hr className="dropdown-divider" /></li>
-                  <li><a className="dropdown-item" href="#">Something else here</a></li>
+                  <li><Link className="dropdown-item" to="#">Something else here</Link></li>
                 </ul>
               </li>
             </ul>

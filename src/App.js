@@ -4,6 +4,7 @@ import Navbar from './Composer/Navbar';
 import Home from './Composer/home';
 import Footer from './Composer/footer';
 import { BrowserRouter as Router, Routes, Route  } from 'react-router-dom';
+import About from './Composer/About';
 function App() {
   return (
     <Router>
@@ -11,6 +12,7 @@ function App() {
     <Navbar></Navbar>
     <Routes>
       <Route path="/" element={<Home />} />
+      <Route path="/about" element={<About />} />
   
     </Routes>
     
