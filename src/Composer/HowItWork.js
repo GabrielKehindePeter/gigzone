@@ -22,7 +22,7 @@ const HowItWorks = () => {
                     <p>Start Today For a Great Future
                         <hr style={{border:'3px solid red', width:'35%'}}/>
                     </p><br /><br />
-                    <p>
+                    <p style={{textAlign:'justify'}}>
                         Dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua eniina ilukita ylokem lokateise ination voluptate velite esse cillum dolore eu fugnulla pariatur lokaim urianewce animid learn more
                     </p>
 
