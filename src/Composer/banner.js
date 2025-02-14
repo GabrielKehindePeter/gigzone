@@ -1,6 +1,6 @@
 const Banner = () => {
     return ( 
-         <div  className="container-fluid" style={{ backgroundImage: "url('bannerimg/banner-img.jpg')" }}>
+         <div  className="container-fluid" style={{ backgroundImage: "url('./bannerimg/banner-img.jpg')" }}>
             <div className="row">
                 <div className="col-lg-4">
                     <br />
