@@ -1,10 +1,10 @@
 const Banner = () => {
     return ( 
-         <div  className="container-fluid" style={{ backgroundImage: "url('./bannerimg/banner-img.jpg')" }}>
+         <div  className="container-fluid" style={{ backgroundImage: "url('../bannerimg/banner-img.jpg')" }}>
             <div className="row">
                 <div className="col-lg-4">
                     <br />
-                    <img src="bannerimg/img-01.png" className="img-fluid d-none d-md-block" />
+                    <img src="../bannerimg/img-01.png" className="img-fluid d-none d-md-block" />
 
                 </div>
                 <div className="col-lg-8 text-light" style={{textAlign:'left',marginTop:'40px'}}>	<br /><br />	
