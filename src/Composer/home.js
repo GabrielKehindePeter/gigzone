@@ -16,14 +16,14 @@ const Home = () => {
                         <p>Start Today For a Great Future</p>
                          <hr style={{border:'3px solid darkblue',width:'30%'}}/>
                         <p>
-                            Limitless Experience
-                            Roam Around With Your Business
-                            Dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua enim poskina ilukita ylokem lokateise ination voluptate velit esse cillum dolore eu fugiat nulla pariatur lokaim urianewce.
+                            At GigZone, we believe in the power of micro-jobs and freelancing to transform lives. Whether you're looking to earn extra income or need quick help with tasks, GigZone is your go-to platform.
                         </p>
                         <p>
-                            Limitless Experience
-                            Roam Around With Your Business
-                            Dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua enim poskina ilukita ylokem lokateise ination voluptate velit esse cillum dolore eu fugiat nulla pariatur lokaim urianewce.
+                            Our mission is simple: connect freelancers with businesses and individuals who need tasks completed efficiently. From social media engagement, app surveys, and simple online tasks, we make freelancing easy, secure, and rewarding.
+                        </p>
+                        <p>
+                            
+                            With a user-friendly interface, secure escrow payments, and a growing network of skilled freelancers, GigZone is redefining how people work and hire in Africa
                         </p>
                         <div className="row">
                             <div className="col-lg-4 text-center">
@@ -61,7 +61,7 @@ const Home = () => {
                                 <div className="services">
                                     <br />
                                     <i className="service-icon bi bi-coin"></i>
-                                    <p>Some text here and there! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Por</p>
+                                    <p>Task posting and managements (clients can post tasks, edit them, delete and verify if they are satisfied by what the freelancer did)</p>
                                     <a href="#">Learn More</a><br/><br />
                                 </div>
                             </div>
@@ -69,7 +69,7 @@ const Home = () => {
                                 <div className="services">
                                     <br />
                                     <i className="service-icon bi bi-wallet-fill"></i>
-                                    <p>Some text here and there! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Por</p>
+                                    <p>Wallet and payment system (users can deposit and withdraw funds)</p>
                                     <a href="#">Learn More</a><br/><br />
                                 </div>
                             </div>
@@ -77,7 +77,7 @@ const Home = () => {
                                 <div className="services">
                                     <br />
                                     <i className="service-icon bi bi-person-circle"></i>
-                                    <p>Some text here and there! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Por</p>
+                                    <p>Ratings and reviews, after any completed task that has been verified by a client, freelancers receive a point </p>
                                     <a href="#">Learn More</a><br/><br />
                                 </div>
                             </div>
@@ -85,7 +85,7 @@ const Home = () => {
                                 <div className="services">
                                     <br />
                                     <i className="service-icon bi bi-arrow-through-heart-fill"></i>
-                                    <p>Some text here and there! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Por</p>
+                                    <p>Payments per task (every task as a certain price attached depends on the category and subcategory it falls under)</p>
                                     <a href="#">Learn More</a><br/><br />
                                 </div>
                             </div>
@@ -121,16 +121,12 @@ const Home = () => {
                         <hr style={{border:'3px solid orange',width:'40%'}}/>
                         <p>Limitless Experience Roam Around With Your Business</p>
                         <p>
-                            Limitless Experience
-                            Roam Around With Your Business
-                            Dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua enim poskina ilukita ylokem lokateise ination voluptate velit esse cillum dolore eu fugiat nulla pariatur lokaim urianewce.
+                            Gigzone is a micro-tasking platform, where users can complete small online tasks (e.g social media engagement, surveys e.t.c) in exchange for their services, they get paid. This platform is a medium to connects clients (Task posters) and freelancers (Task doers)
                         </p>
                         <p>
-                            Limitless Experience
-                            Roam Around With Your Business
-                            Dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua enim poskina ilukita ylokem lokateise ination voluptate velit esse cillum dolore eu fugiat nulla pariatur lokaim urianewce.
+                            Gigzone will be launcing as a web-based platform that connects users for both posting and completion on micro tasks. It will support the escrow-based payments to ensure a fair and safe payment for each task completed.
                         </p>
-                        <button className="btn btn-danger">Read More</button><br /><br />
+                        <button className="btn btn-danger">Try It Our Today</button><br /><br />
                     </div>
                     <div className="col-lg-6">
                          <img src="./bannerimg/about-5.png" className="img-fluid" />

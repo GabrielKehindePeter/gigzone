@@ -21,10 +21,16 @@ const About = () => {
                         <p>Start Today For a Great Future</p>
                         <hr style={{border:'3px solid red'}} />
                         <div style={{textAlign:"justify"}}>
-                            <p>Dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua eniina ilukita ylokem lokateise ination voluptate velite esse cillum dolore eu fugnulla pariatur lokaim urianewce anim id est laborumed</p>
-                            <p>Dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua eniina ilukita ylokem lokateise ination voluptate velite esse cillum dolore eu fugnulla pariatur lokaim urianewce anim id est laborumed</p>
-                            <p>Dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua eniina ilukita ylokem lokateise ination voluptate velite esse cillum dolore eu fugnulla pariatur lokaim urianewce anim id est laborumed</p>
-                            <br />
+                                        <p>
+                            At GigZone, we believe in the power of micro-jobs and freelancing to transform lives. Whether you're looking to earn extra income or need quick help with tasks, GigZone is your go-to platform.
+                        </p>
+                        <p>
+                            Our mission is simple: connect freelancers with businesses and individuals who need tasks completed efficiently. From social media engagement, app surveys, and simple online tasks, we make freelancing easy, secure, and rewarding.
+                        </p>
+                        <p>
+                            
+                            With a user-friendly interface, secure escrow payments, and a growing network of skilled freelancers, GigZone is redefining how people work and hire in Africa
+                        </p>
                             <button className="btn btn-dark btn-lg">Register</button>
                             <br /><br />
                          </div>
