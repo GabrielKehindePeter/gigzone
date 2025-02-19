@@ -113,18 +113,32 @@ const Home = () => {
 
             {/* about product */}
 
-            <div className="container-fluid text-light" style={{background:'black'}}>
+            <div className="container-fluid text-light" style={{background:'rgb(46, 45, 45)'}}>
                 <br /><br /><br /><br />
                 <div className="row">
                     <div className="col-lg-6" style={{textAlign:'justify',padding:'15px'}}>
-                        <h1 style={{color:"blue"}}>Limitless Experience</h1>
+                        <h1 style={{color:"blue"}}>Getting Started is Easy!</h1>
                         <hr style={{border:'3px solid orange',width:'40%'}}/>
-                        <p>Limitless Experience Roam Around With Your Business</p>
-                        <p>
+                        <p>Getting Started is Easy!</p>
+                        {/* <p>
                             Gigzone is a micro-tasking platform, where users can complete small online tasks (e.g social media engagement, surveys e.t.c) in exchange for their services, they get paid. This platform is a medium to connects clients (Task posters) and freelancers (Task doers)
                         </p>
                         <p>
                             Gigzone will be launcing as a web-based platform that connects users for both posting and completion on micro tasks. It will support the escrow-based payments to ensure a fair and safe payment for each task completed.
+                        </p> */}
+
+
+                        <p style={{padding:'10px',fontSize:'15px'}}>
+                            
+                            Are you ready to turn your social media time into cash? Follow these steps:<br /><br />
+
+                            👉 Step 1: Click Sign Up Now to create your free account.<br /><br />
+                            👉 Step 2: Start completing tasks and earning money immediately.<br /><br />
+                            👉 Step 3: Withdraw your earnings and enjoy extra income!<br /><br />
+
+                            🚀 Join thousands of others who are already making money with GigZone! 🚀<br /><br />
+
+                            💡 Don’t waste another minute scrolling for free—turn your social media activity into real income today!
                         </p>
                         <button className="btn btn-danger">Try It Our Today</button><br /><br />
                     </div>

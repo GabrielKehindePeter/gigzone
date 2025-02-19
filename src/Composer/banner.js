@@ -10,8 +10,8 @@ const Banner = () => {
 
                 </div>
                 <div className="col-lg-8 text-light" style={{textAlign:'left',marginTop:'40px'}}>	<br /><br />	
-                    <h1><span style={{display:'block',fontSize:'65px'}}>Hire expert freelancers</span>
-                    <span style={{color:'blue'}}>Earn As Much Online</span></h1>
+                    <h1><span style={{display:'block',fontSize:'65px'}}>Make Money Online</span>
+                    <span style={{color:'blue'}}>Earn as much as you can online</span></h1>
                     <p>
                     Earn money by completing simple tasks or find skilled freelancers to get things done fast! GigZone gives freelancers the opportunity to complete micro social tasks and get paid for it.
                     </p>

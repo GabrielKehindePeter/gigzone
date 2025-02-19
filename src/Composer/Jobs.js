@@ -23,7 +23,7 @@ const Jobs = () => {
                         <hr style={{border:'3px solid red', width:'35%'}}/>
                     </p>
                     <p>
-                        Dotem eiusmod tempor incune utnaem labore etdolore maigna aliqua eniina ilukita ylokem lokateise ination voluptate velite esse cillum dolore eu fugnulla pariatur lokaim urianewce animid learn more
+                      At GigZone, we offer a variety of simple social media tasks that allow you to earn money online. From liking posts and commenting to following accounts and sharing content, our jobs are easy, flexible, and require no prior experience. Whether you're looking for a side hustle or a full-time income, our listed jobs provide a great way to monetize your time on social media. Browse through available tasks, complete them, and get paid instantly!
                     </p>
                     <br /><br />
 
