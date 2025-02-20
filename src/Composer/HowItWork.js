@@ -1,7 +1,7 @@
 const HowItWorks = () => {
     return ( 
     <div>
-        <div  className="container-fluid" style={{ backgroundImage: "url('bannerimg/img-02.jpg')" }}>
+        <div  className="container-fluid" style={{ backgroundImage: "url('bannerimg/img-02.jpg')",marginTop:'50px' }}>
             <div className="row">
                 <div className="col-lg-12">
                      <h1><span style={{display:'block',fontSize:'65px',color:'white',paddingTop:'70px'}}><b>How It Work?</b></span>
